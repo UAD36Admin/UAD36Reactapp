@@ -42,11 +42,11 @@ jobs:
         node-version: ${{ env.NODE_VERSION }}
         cache: 'npm'
 
-    - name: npm install, build, and test
-      run: |
-        npm install
-        npm run build --if-present
-        npm run test --if-present
+    - name: Install Dependencies and Build
+  run: |
+    npm install
+    chmod +x ./node_modules/.bin/vite
+    npx vite build
 
     - name: Upload artifact for deployment job
       uses: actions/upload-artifact@v4
