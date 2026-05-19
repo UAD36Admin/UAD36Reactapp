@@ -45,7 +45,7 @@ jobs:
     - name: npm install, build, and test
       run: |
         npm install
-        node node_modules/vite/bin/vite.js build --if-present
+        node node_modules/vite/bin/vite.js build 
         npm run test --if-present
 
     - name: Upload artifact for deployment job
