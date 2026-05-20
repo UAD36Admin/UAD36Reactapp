@@ -61,7 +61,7 @@ export default function App() {
         throw new Error(`${response.status} ${response.statusText}: ${errorText}`);
       }
 
-      setStatus({ type: 'success', message: 'Saved successfully to Azure Table Storage.' });
+      setStatus({ type: 'success', message: 'Thank you for your interest.' });
       setFormValues({
         firstName: '',
         lastName: '',
