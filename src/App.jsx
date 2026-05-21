@@ -362,7 +362,7 @@ export default function App() {
             </div>
 
             <div className="field-row">
-              <label htmlFor="role">Role</label>
+              <label htmlFor="role">Role/Title</label>
               <input id="role" name="role" value={formValues.role} onChange={handleChange} />
             </div>
 
@@ -371,6 +371,8 @@ export default function App() {
               <select id="discipline" name="discipline" value={formValues.discipline} onChange={handleChange} required>
                 <option value="">Select one</option>
                 <option value="Lender">Lender</option>
+                <option value="Lender">Professional Organization</option>
+                <option value="Lender">Industry Discipline</option>
                 <option value="Appraiser">Appraiser</option>
                 <option value="AMC">AMC</option>
                 <option value="Technology Vendor">Technology Vendor</option>
