@@ -246,8 +246,7 @@ export default function App() {
             <li>Aivre</li>
             <li>Cotality / TOTAL</li>
             <li>AutoMax</li>
-            <li>HomeVision</li>
-            <li>RestB.AI</li>
+            <li>HomeVision</li>            
             <li>Bradford Technologies</li>
             <li>FreedomAppraise</li>
             <li>ApprAIz</li>
