@@ -239,19 +239,77 @@ export default function App() {
         <section>
           <h2>Participating Organizations</h2>
           <h3>Infrastructure Providers</h3>
+          
           <ul>
-            <li>Appraiser eLearning</li>
-            <li>American Valuation Society</li>
-            <li>SFREP</li>
-            <li>Aivre</li>
-            <li>Cotality / TOTAL</li>
-            <li>AutoMax</li>
-            <li>HomeVision</li>            
-            <li>Bradford Technologies</li>
-            <li>FreedomAppraise</li>
-            <li>ApprAIz</li>
-            <li>Additional vendors as they join</li>
-          </ul>
+            <li>
+        <a href="https://www.appraiz.biz/" target="_blank">
+            ApprAIz
+        </a>
+    </li>
+    <li>
+        <a href="https://appraiserelearning.com/" target="_blank">
+            Appraiser eLearning
+        </a>
+    </li>
+
+    <li>
+        <a href="https://avsociety.org/" target="_blank">
+            American Valuation Society
+        </a>
+    </li>
+
+    <li>
+        <a href="https://sfrep.com/" target="_blank">
+            SFREP
+        </a>
+    </li>
+
+    <li>
+        <a href="https://www.aivre.com/" target="_blank">
+            Aivre
+        </a>
+    </li>
+
+    <li>
+        <a href="https://www.alamode.com/" target="_blank">
+            Cotality / TOTAL
+        </a>
+    </li>
+
+    <li>
+        <a href="https://www.automax.ai/" target="_blank">
+            AutoMax
+        </a>
+    </li>
+
+    <li>
+        <a href="https://www.homevision.co/" target="_blank">
+            HomeVision
+        </a>
+    </li>
+
+    <li>
+        <a href="https://restb.ai/" target="_blank">
+            RestB.AI
+        </a>
+    </li>
+
+    <li>
+        <a href="https://bradfordsoftware.com/" target="_blank">
+            Bradford Technologies
+        </a>
+    </li>
+
+    <li>
+        <a href="https://freedomappraise.com/" target="_blank">
+            FreedomAppraise
+        </a>
+    </li>
+
+    
+
+    <li>Additional vendors as they join</li>
+</ul>
           <h3>Practitioner Organizations</h3>
           <ul>
             <li>Lenders</li>
