@@ -371,8 +371,8 @@ export default function App() {
               <select id="discipline" name="discipline" value={formValues.discipline} onChange={handleChange} required>
                 <option value="">Select one</option>
                 <option value="Lender">Lender</option>
-                <option value="Lender">Professional Organization</option>
-                <option value="Lender">Industry Discipline</option>
+                <option value="Professional Organization">Professional Organization</option>
+                <option value="Industry Discipline">Industry Discipline</option>
                 <option value="Appraiser">Appraiser</option>
                 <option value="AMC">AMC</option>
                 <option value="Technology Vendor">Technology Vendor</option>
