@@ -241,6 +241,12 @@ export default function App() {
           <h3>Infrastructure Providers</h3>
           
           <ul>
+                <li>
+        <a href="https://aimsdashboard.com/" target="_blank">
+            AIMSdashboard
+        </a>
+    </li>
+
             <li>
         <a href="https://www.appraiz.biz/" target="_blank">
             ApprAIz
@@ -288,13 +294,8 @@ export default function App() {
         </a>
     </li>
 
-    <li>
-        <a href="https://restb.ai/" target="_blank">
-            RestB.AI
-        </a>
-    </li>
-
-    <li>
+    
+        <li>
         <a href="https://bradfordsoftware.com/" target="_blank">
             Bradford Technologies
         </a>
