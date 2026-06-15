@@ -241,71 +241,83 @@ export default function App() {
           <h3>Infrastructure Providers</h3>
           
           <ul>
-                <li>
-        <a href="https://aimsdashboard.com/" target="_blank">
-            AIMSdashboard
-        </a>
-    </li>
-
-            <li>
-        <a href="https://www.appraiz.biz/" target="_blank">
-            ApprAIz
-        </a>
-    </li>
     <li>
-        <a href="https://appraiserelearning.com/" target="_blank">
-            Appraiser eLearning
-        </a>
-    </li>
+    <a href="https://aimsdashboard.com/" target="_blank">
+        AIMSdashboard
+    </a>
+</li>
 
-    <li>
-        <a href="https://avsociety.org/" target="_blank">
-            American Valuation Society
-        </a>
-    </li>
+<li>
+    <a href="https://www.aivre.com/" target="_blank">
+        Aivre
+    </a>
+</li>
 
-    <li>
-        <a href="https://sfrep.com/" target="_blank">
-            SFREP
-        </a>
-    </li>
+<li>
+    <a href="https://avsociety.org/" target="_blank">
+        American Valuation Society
+    </a>
+</li>
 
-    <li>
-        <a href="https://www.aivre.com/" target="_blank">
-            Aivre
-        </a>
-    </li>
+<li>
+    <a href="https://appraiserelearning.com/" target="_blank">
+        Appraiser eLearning
+    </a>
+</li>
 
-    <li>
-        <a href="https://www.alamode.com/" target="_blank">
-            Cotality / TOTAL
-        </a>
-    </li>
+<li>
+    <a href="https://www.appraiz.biz/" target="_blank">
+        ApprAIz
+    </a>
+</li>
 
-    <li>
-        <a href="https://www.automax.ai/" target="_blank">
-            AutoMax
-        </a>
-    </li>
+<li>
+    <a href="https://www.automax.ai/" target="_blank">
+        AutoMax
+    </a>
+</li>
 
-    <li>
-        <a href="https://www.homevision.co/" target="_blank">
-            HomeVision
-        </a>
-    </li>
+<li>
+    <a href="https://bradfordsoftware.com/" target="_blank">
+        Bradford Technologies
+    </a>
+</li>
 
-    
-        <li>
-        <a href="https://bradfordsoftware.com/" target="_blank">
-            Bradford Technologies
-        </a>
-    </li>
+<li>
+    <a href="https://www.alamode.com/" target="_blank">
+        Cotality / TOTAL
+    </a>
+</li>
 
-    <li>
-        <a href="https://freedomappraise.com/" target="_blank">
-            FreedomAppraise
-        </a>
-    </li>
+<li>
+    <a href="https://freedomappraise.com/" target="_blank">
+        FreedomAppraise
+    </a>
+</li>
+
+<li>
+    <a href="https://www.homevision.co/" target="_blank">
+        HomeVision
+    </a>
+</li>
+
+<li>
+    <a href="https://sfrep.com/" target="_blank">
+        SFREP
+    </a>
+</li>
+
+<li>
+    <a href="https://www.valligent.com/" target="_blank">
+        Valligent
+    </a>
+</li>
+
+<li>
+    <a href="https://www.veros.com/" target="_blank">
+        Veros
+    </a>
+</li>
 
     
 
