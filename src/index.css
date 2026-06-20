@@ -23,7 +23,7 @@ body {
 .hero {
   padding: 28px 24px;
   /* border-radius: 18px; */
-  background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+  background:#223677;
   color: white;
   margin-bottom: 32px;
 }
@@ -135,7 +135,7 @@ button {
   border-radius: 12px;
   font-size: 1rem;
   font-weight: 700;
-  background: #2563eb;
+  background: #223677;
   color: white;
   cursor: pointer;
 }
