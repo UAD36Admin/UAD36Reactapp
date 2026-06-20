@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import logo from './assets/UAD36InitiativeIllustLogoVibrant.svg';
 
 const tableSasUrl =
   'https://uad36wsstorage.table.core.windows.net/InterestSubmissions?sp=rau&st=2026-06-03T15:38:00Z&se=2027-12-30T23:53:00Z&spr=https&sv=2026-02-06&sig=KGwLcANOXD3FmtBirj%2FvW%2BxmLsy79I6YAcFsDtSccrA%3D&tn=InterestSubmissions';
@@ -85,9 +86,16 @@ export default function App() {
 
   return (
     <div className="page-shell">
-      <div style={{ textAlign: 'center',paddingBottom: '20px' }}  className="logo">
-        <img style={{ height: '280px' }} src="src/assets/UAD36InitiativeIllustLogoVibrant.svg" alt="UAD 3.6 Production Incubation Initiative Logo" />
-      </div>
+      <div
+  style={{ textAlign: 'center', paddingBottom: '20px' }}
+  className="logo"
+>
+  <img
+    style={{ height: '280px' }}
+    src={logo}
+    alt="UAD 3.6 Production Incubation Initiative Logo"
+  />
+</div>
 
       <header className="hero">
         <h1>UAD 3.6 Production Incubation Initiative</h1>
