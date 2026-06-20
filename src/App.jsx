@@ -86,7 +86,7 @@ export default function App() {
   return (
     <div className="page-shell">
       <div style={{ textAlign: 'center',paddingBottom: '20px' }}  className="logo">
-        <img style={{ height: '280px' }} src="src/assets/UAD 3.6 Initiative Illust Logo Vibrant 1.svg" alt="UAD 3.6 Production Incubation Initiative Logo" />
+        <img style={{ height: '280px' }} src="src/assets/UAD36InitiativeIllustLogoVibrant.svg" alt="UAD 3.6 Production Incubation Initiative Logo" />
       </div>
 
       <header className="hero">
