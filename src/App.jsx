@@ -85,6 +85,10 @@ export default function App() {
 
   return (
     <div className="page-shell">
+      <div style={{ textAlign: 'center',paddingBottom: '20px' }}  className="logo">
+        <img style={{ height: '280px' }} src="src/assets/UAD 3.6 Initiative Illust Logo Vibrant 1.svg" alt="UAD 3.6 Production Incubation Initiative Logo" />
+      </div>
+
       <header className="hero">
         <h1>UAD 3.6 Production Incubation Initiative</h1>
         <p>A voluntary, practitioner driven movement accelerating Mortgage Banking scale readiness for UAD 3.6 Appraisal use.</p>
@@ -317,11 +321,9 @@ export default function App() {
     <a href="https://www.veros.com/" target="_blank">
         Veros
     </a>
-</li>
+</li>   
 
-    
-
-    <li>Additional vendors as they join</li>
+    <li>Additional participants as they join</li>
 </ul>
           <h3>Practitioner Organizations</h3>
           <ul>
