@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import logo from './assets/UAD36InitiativeIllustLogoVibrant.svg';
+import logo from './assets/UAD36InitiativeIllustLogoVibrant.png';
 
 const tableSasUrl =
   'https://uad36wsstorage.table.core.windows.net/InterestSubmissions?sp=rau&st=2026-06-03T15:38:00Z&se=2027-12-30T23:53:00Z&spr=https&sv=2026-02-06&sig=KGwLcANOXD3FmtBirj%2FvW%2BxmLsy79I6YAcFsDtSccrA%3D&tn=InterestSubmissions';
