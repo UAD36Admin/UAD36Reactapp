@@ -314,6 +314,12 @@ export default function App() {
 </li>
 
 <li>
+    <a href="https://restb.ai/" target="_blank">
+        RestB.ai
+    </a>
+</li>
+
+<li>
     <a href="https://sfrep.com/" target="_blank">
         SFREP
     </a>
