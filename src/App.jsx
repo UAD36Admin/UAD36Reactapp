@@ -284,10 +284,18 @@ export default function App() {
 </li>
 
 <li>
+    <a href="https://www.asteroom.com/" target="_blank">
+        Asteroom
+    </a>
+</li>
+
+<li>
     <a href="https://www.automax.ai/" target="_blank">
         AutoMax
     </a>
 </li>
+
+
 
 <li>
     <a href="https://bradfordsoftware.com/" target="_blank">
@@ -324,11 +332,20 @@ export default function App() {
         SFREP
     </a>
 </li>
+
+<li>
+    <a href="https://www.txvaluepro.com/" target="_blank">
+        Texas Valuation Professionals
+    </a>
+</li>
+
 <li>
     <a href="https://www.ncpac.us/" target="_blank">
         The North Carolina Professional Appraisers Coalition
     </a>
 </li>
+
+
 
 <li>
     <a href="https://www.valligent.com/" target="_blank">
