@@ -308,6 +308,11 @@ export default function App() {
         Cotality / TOTAL
     </a>
 </li>
+<li>
+    <a href="https://fdiconsultants.com/" target="_blank">
+        FDI Executive Consultants
+    </a>
+</li>
 
 <li>
     <a href="https://freedomappraise.com/" target="_blank">
